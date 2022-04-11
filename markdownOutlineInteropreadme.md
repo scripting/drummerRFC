@@ -10,7 +10,8 @@ Each developer must decide for themselves what formats to support, this is not a
 
 ### The format needs a name
 
-I don't know what to call it. Just calling it "markdown" is too vague, markdown is used for many other purposes. The goal here is not to read all markdown files, but a subset of them that follow strict rules. 
+I don't know what to call it. Just calling it <a href="http://daringfireball.net/projects/markdown/">Markdown</a>
+ is too vague, markdown is used for many other purposes. The goal here is not to read all markdown files, but a subset of them that follow strict rules. 
 
 ### Is .md the right extnesion to use?
 
